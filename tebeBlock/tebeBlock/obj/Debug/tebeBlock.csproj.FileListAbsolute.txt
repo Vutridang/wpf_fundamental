@@ -1,0 +1,15 @@
+D:\project_bai_tap\C#_project\wpf\tebeBlock\tebeBlock\bin\Debug\tebeBlock.exe.config
+D:\project_bai_tap\C#_project\wpf\tebeBlock\tebeBlock\bin\Debug\tebeBlock.exe
+D:\project_bai_tap\C#_project\wpf\tebeBlock\tebeBlock\bin\Debug\tebeBlock.pdb
+D:\project_bai_tap\C#_project\wpf\tebeBlock\tebeBlock\obj\Debug\tebeBlock.csproj.AssemblyReference.cache
+D:\project_bai_tap\C#_project\wpf\tebeBlock\tebeBlock\obj\Debug\MainWindow.g.cs
+D:\project_bai_tap\C#_project\wpf\tebeBlock\tebeBlock\obj\Debug\App.g.cs
+D:\project_bai_tap\C#_project\wpf\tebeBlock\tebeBlock\obj\Debug\tebeBlock_MarkupCompile.cache
+D:\project_bai_tap\C#_project\wpf\tebeBlock\tebeBlock\obj\Debug\tebeBlock_MarkupCompile.lref
+D:\project_bai_tap\C#_project\wpf\tebeBlock\tebeBlock\obj\Debug\MainWindow.baml
+D:\project_bai_tap\C#_project\wpf\tebeBlock\tebeBlock\obj\Debug\tebeBlock.g.resources
+D:\project_bai_tap\C#_project\wpf\tebeBlock\tebeBlock\obj\Debug\tebeBlock.Properties.Resources.resources
+D:\project_bai_tap\C#_project\wpf\tebeBlock\tebeBlock\obj\Debug\tebeBlock.csproj.GenerateResource.cache
+D:\project_bai_tap\C#_project\wpf\tebeBlock\tebeBlock\obj\Debug\tebeBlock.csproj.CoreCompileInputs.cache
+D:\project_bai_tap\C#_project\wpf\tebeBlock\tebeBlock\obj\Debug\tebeBlock.exe
+D:\project_bai_tap\C#_project\wpf\tebeBlock\tebeBlock\obj\Debug\tebeBlock.pdb
