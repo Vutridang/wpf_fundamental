@@ -1,0 +1,15 @@
+D:\project_bai_tap\C#_project\wpf\CalendarControlDemo\CalendarControlDemo\bin\Debug\CalendarControlDemo.exe.config
+D:\project_bai_tap\C#_project\wpf\CalendarControlDemo\CalendarControlDemo\bin\Debug\CalendarControlDemo.exe
+D:\project_bai_tap\C#_project\wpf\CalendarControlDemo\CalendarControlDemo\bin\Debug\CalendarControlDemo.pdb
+D:\project_bai_tap\C#_project\wpf\CalendarControlDemo\CalendarControlDemo\obj\Debug\CalendarControlDemo.csproj.AssemblyReference.cache
+D:\project_bai_tap\C#_project\wpf\CalendarControlDemo\CalendarControlDemo\obj\Debug\MainWindow.g.cs
+D:\project_bai_tap\C#_project\wpf\CalendarControlDemo\CalendarControlDemo\obj\Debug\App.g.cs
+D:\project_bai_tap\C#_project\wpf\CalendarControlDemo\CalendarControlDemo\obj\Debug\CalendarControlDemo_MarkupCompile.cache
+D:\project_bai_tap\C#_project\wpf\CalendarControlDemo\CalendarControlDemo\obj\Debug\CalendarControlDemo_MarkupCompile.lref
+D:\project_bai_tap\C#_project\wpf\CalendarControlDemo\CalendarControlDemo\obj\Debug\MainWindow.baml
+D:\project_bai_tap\C#_project\wpf\CalendarControlDemo\CalendarControlDemo\obj\Debug\CalendarControlDemo.g.resources
+D:\project_bai_tap\C#_project\wpf\CalendarControlDemo\CalendarControlDemo\obj\Debug\CalendarControlDemo.Properties.Resources.resources
+D:\project_bai_tap\C#_project\wpf\CalendarControlDemo\CalendarControlDemo\obj\Debug\CalendarControlDemo.csproj.GenerateResource.cache
+D:\project_bai_tap\C#_project\wpf\CalendarControlDemo\CalendarControlDemo\obj\Debug\CalendarControlDemo.csproj.CoreCompileInputs.cache
+D:\project_bai_tap\C#_project\wpf\CalendarControlDemo\CalendarControlDemo\obj\Debug\CalendarControlDemo.exe
+D:\project_bai_tap\C#_project\wpf\CalendarControlDemo\CalendarControlDemo\obj\Debug\CalendarControlDemo.pdb
